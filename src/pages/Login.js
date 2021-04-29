@@ -4,7 +4,6 @@ import styled from "styled-components";
 import loginImg from "../images/login-img.svg";
 const Login = () => {
   const { loginWithRedirect, user } = useAuth0();
-  console.log(user);
 
   return (
     <Wrapper>
