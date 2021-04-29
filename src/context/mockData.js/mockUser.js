@@ -1,0 +1,37 @@
+// 20210428124150
+// https://api.github.com/users/jxnblk
+
+export default {
+  "login": "Github search",
+  "id": 3451712,
+  "node_id": "MDQ6VXNlcjM0NTE3MTI=",
+  "avatar_url": "https://avatars.githubusercontent.com/u/54709954?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jxnblk",
+  "html_url": "https://github.com/priyanshu-24",
+  "followers_url": "https://api.github.com/users/jxnblk/followers",
+  "following_url": "https://api.github.com/users/jxnblk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jxnblk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jxnblk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jxnblk/subscriptions",
+  "organizations_url": "https://api.github.com/users/jxnblk/orgs",
+  "repos_url": "https://api.github.com/users/jxnblk/repos",
+  "events_url": "https://api.github.com/users/jxnblk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jxnblk/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "Priyanshu Pandey",
+  "company": "Built On React",
+  "blog": "https://reactjs.org",
+  "location": "Everywhere",
+  "email": null,
+  "hireable": null,
+  "bio": "These all are just dummy data for better visualization, search for a username to get your desired GitHub Profile",
+  "twitter_username": null,
+  "public_repos": 268,
+  "public_gists": 46,
+  "followers": 51309,
+  "following": 4,
+  "created_at": "2013-02-01T19:24:48Z",
+  "updated_at": "2021-04-19T17:52:36Z"
+}
